@@ -1,4 +1,4 @@
 https-server
 ============
 
-https server for hosting simple html pages.
+Basic https server for hosting simple html pages.
