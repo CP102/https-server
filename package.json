@@ -1,0 +1,24 @@
+{
+  "name": "https-server",
+  "description": "Basic https server that hosts a simple html page.",
+  "version": "0.0.1",
+  "keywords": [
+    "HTTPS",
+    "HTTPS-example",
+    "SSL"
+  ],
+  "maintainers": [
+    {
+      "name": "cp102",
+      "email": "cpinvestor709@gmail.com",
+      "web": ""
+    }
+  ],
+  "licenses": [
+    {
+      "name": "MIT License",
+      "url": ""
+    }
+  ],
+  "homepage": "https://github.com/CP102/https-server"
+}
