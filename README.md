@@ -18,7 +18,7 @@ var a = https.createServer(options, function (req, response) {
   response.write("<html>");
   response.write('<body>');
   response.write('<h1>');
-  response.write('Server is working');
+  response.write(' Server is working');
   response.write('</h1>');
   response.write('</body>');
   response.write('</html>');
