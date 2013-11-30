@@ -2,9 +2,9 @@ https-server
 ============
 <html>
 <body>
-<h2>Basic https server that hosts a simple html page.</h2>
-<h2>
-Server:</h2>
+<h3>Basic https server that hosts a simple html page.</h3>
+<h3>
+Server:</h3>
 <pre class="prettyprint lang-js">
 var https = require('https');
 var fs = require('fs');
