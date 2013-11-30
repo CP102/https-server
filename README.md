@@ -2,9 +2,9 @@ https-server
 ============
 <html>
 <body>
-<h1>Basic https server that hosts a simple html page.</h1>
-<h1>
-Server:</h1>
+<h2>Basic https server that hosts a simple html page.</h2>
+<h2>
+Server:</h2>
 <pre class="prettyprint lang-js">
 var https = require('https');
 var fs = require('fs');
@@ -29,4 +29,4 @@ var a = https.createServer(options, function (req, response) {
 console.log("Server running at http://127.0.0.1:8000/");
 </pre>
 </body>
-</html>);
+</html>
