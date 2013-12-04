@@ -1,7 +1,8 @@
 {
+ {
   "name": "https-server",
-  "description": "Basic https server that can host a simple html page.",
-  "version": "0.0.3",
+  "description": "Basic https server that hosts a simple html page.",
+  "version": "0.0.6",
   "keywords": [
     "https-server",
     "ssl",
@@ -14,11 +15,17 @@
       "web": ""
     }
   ],
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git://github.com/CP102/https-server.git"
+    }
+  ],
   "licenses": [
     {
       "name": "MIT License",
       "url": "https://github.com/CP102/https-server/blob/master/LICENSE"
     }
   ],
-  "homepage": "https://www.github.com/CP102/https-server"
+  "homepage": "https://github.com/CP102/https-server"
 }
